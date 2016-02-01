@@ -30,7 +30,7 @@ class PokemonDetailVC: UIViewController {
         super.viewDidLoad()
         
         nameLbl.text = pokemon.name
-        var image = UIImage(named: "\(pokemon.pokedexID)")
+        let image = UIImage(named: "\(pokemon.pokedexID)")
         mainImg.image = image
         currentEvoImg.image = image
         
