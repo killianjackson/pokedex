@@ -174,7 +174,7 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="460" y="399"/>
+            <point key="canvasLocation" x="544" y="359"/>
         </scene>
         <!--Pokemon DetailVC-->
         <scene sceneID="2Ql-Lu-Ue6">
